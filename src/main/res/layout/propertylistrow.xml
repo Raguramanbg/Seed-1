@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- propertylistrow.xml. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:layout_width="fill_parent">
+  <ImageView android:id="@+id/propertyImage"
+    android:contentDescription="@string/property_image"
+	android:layout_height="100dp"
+	android:layout_width="100dp">
+  </ImageView>
+  <LinearLayout android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:layout_width="fill_parent">
+    <TextView android:layout_height="wrap_content"
+		android:id="@+id/summaryTitle"
+		android:layout_width="fill_parent"></TextView>
+    <TableLayout android:id="@+id/summaryFeatureTable"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent" />
+  </LinearLayout>
+</LinearLayout>

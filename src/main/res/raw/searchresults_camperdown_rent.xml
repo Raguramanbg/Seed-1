@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SearchResults Results="64" TotalResults="64">
+  <Listing ID="6257774" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="28/07/2009 14:20:48"
+  PlacementDate="12/08/2009 22:20:00" NewspaperID="Net">
+    <Organisation ID="194" />
+    <Creator>
+      <Participant Name="Christine Ibrahim" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Christine Ibrahim" FirstName="Christine"
+        LastName="Ibrahim"
+        EmailAddress="cibrahim@sarahlorden.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9555 7755" />
+            <Number Type="Mobile" Number="0421 701 904" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="409/1 Layton Street CAMPERDOWN">
+        <UnitNumber>409</UnitNumber>
+        <StreetNumber>1</StreetNumber>
+        <Street>Layton Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/194/6257774_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/194/6257774_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/194/6257774_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/194/6257774_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;HISTORIC &#8220;GRACE&#8221;
+    BUILDING&lt;/b&gt;&lt;br /&gt;This modern security apartment in
+    a converted warehouse building with high ceilings and exposed
+    timber beams has a large bedroom with built in wardrobe,
+    fully...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>409/1 Layton Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>28/07/2009 14:20:48</DateCreated>
+    <DateModified>12/08/2009 22:20:00</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$400" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6274933" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="11/08/2009 17:41:15"
+  PlacementDate="12/08/2009 18:40:29" NewspaperID="Net">
+    <Organisation ID="7843" />
+    <Creator>
+      <Participant Name="Amanda Grochowski" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Amanda Grochowski" FirstName="Amanda"
+        LastName="Grochowski"
+        EmailAddress="amanda@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Julie Romano" FirstName="Julie"
+        LastName="Romano"
+        EmailAddress="julie@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="0412 238 846" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Simon Carson" FirstName="Simon"
+        LastName="Carson"
+        EmailAddress="simon@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="0434 422 980" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="StreetAndSuburbOnly"
+      DisplayableAddress="3 Sterling Circuit CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber />
+        <Street>3 Sterling Circuit</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/7843/6274933_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/7843/6274933_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/7843/6274933_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/7843/6274933_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;TRIO - BRAND NEW EAST FACING 1 BEDROOM WITH
+    SPECTACULAR VIEWS&lt;/b&gt;&lt;br /&gt;Call MOVE Property
+    Agents 02 9519 4669 Stunning brand east facing apartment
+    features one bedroom with spectacular views fr...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>3 Sterling Circuit
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>11/08/2009 17:41:15</DateCreated>
+    <DateModified>12/08/2009 18:40:29</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$580" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6276683" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="12/08/2009 18:20:11"
+  PlacementDate="12/08/2009 18:20:11" NewspaperID="Net">
+    <Organisation ID="194" />
+    <Creator>
+      <Participant Name="Christine Ibrahim" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Christine Ibrahim" FirstName="Christine"
+        LastName="Ibrahim"
+        EmailAddress="cibrahim@sarahlorden.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9555 7755" />
+            <Number Type="Mobile" Number="0421 701 904" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="414/1 Layton Street CAMPERDOWN">
+        <UnitNumber>414</UnitNumber>
+        <StreetNumber>1</StreetNumber>
+        <Street>Layton Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/194/6276683_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/194/6276683_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/194/6276683_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/194/6276683_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;LOCATION AND STYLE&lt;/b&gt;&lt;br
+    /&gt;Immaculate and stylish one bedroom apartment in the sought
+    after building &amp;amp;quot;The Grace'. Large double bedroom
+    with built-in wardrobe, gourmet kitchen with sta...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>414/1 Layton Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>12/08/2009 18:20:11</DateCreated>
+    <DateModified>12/08/2009 18:20:11</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$410" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6276525" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="12/08/2009 17:04:55"
+  PlacementDate="12/08/2009 17:04:55" NewspaperID="Net">
+    <Organisation ID="3851" />
+    <Creator>
+      <Participant Name="Curtis Christofi" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Curtis Christofi" FirstName="Curtis"
+        LastName="Christofi"
+        EmailAddress="curtis@rhnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 8596 3545" />
+            <Number Type="Mobile" Number="0422 210 633" />
+            <Number Type="Fax" Number="02 8596 3566" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="House" TypeCode="H">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="3/46-48 Mallett Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>3/46-48</StreetNumber>
+        <Street>Mallett Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="3" />
+        <Feature Name="Bathrooms" Quantity="3" />
+        <Feature Name="Carspaces" Quantity="2" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3851/6276525_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3851/6276525_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3851/6276525_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3851/6276525_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;MODERN 3-4 BEDROOM TOWNHOUSE&lt;/b&gt;&lt;br
+    /&gt;Spread over 4 levels this beautifully presented townhouse
+    consists of 3 large bedrooms and a home office or study. On the
+    second level you will find a large...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>3/46-48 Mallett Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>12/08/2009 17:04:55</DateCreated>
+    <DateModified>12/08/2009 17:04:55</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$800" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6246629" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="17/07/2009 19:00:11"
+  PlacementDate="12/08/2009 16:21:06" NewspaperID="Net">
+    <Organisation ID="3695" />
+    <Creator>
+      <Participant Name="" />
+    </Creator>
+    <Contacts>
+      <Contact />
+    </Contacts>
+    <Property Type="House" TypeCode="H">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="48 BISHOPGATE CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>48</StreetNumber>
+        <Street>BISHOPGATE</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3695/6246629_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3695/6246629_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3695/6246629_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3695/6246629_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;HIDDEN JEWEL!&lt;/b&gt;&lt;br /&gt;OPEN FOR
+    INSPECTION:SATURDAY 15/08 AT 10.30AM SHARP! An impeccable
+    recent contemporary renovation has transformed this 3 level
+    terrace into a sleek and sexy home with cl...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>48 BISHOPGATE
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>17/07/2009 19:00:11</DateCreated>
+    <DateModified>12/08/2009 16:21:06</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$620" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6257189" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="28/07/2009 10:39:18"
+  PlacementDate="12/08/2009 15:05:16" NewspaperID="Net">
+    <Organisation ID="15979" />
+    <Creator>
+      <Participant Name="" />
+    </Creator>
+    <Contacts>
+      <Contact />
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="406/144 Mallet St CAMPERDOWN">
+        <UnitNumber>406</UnitNumber>
+        <StreetNumber>144</StreetNumber>
+        <Street>Mallet St</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/15979/6257189_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/15979/f9654c61-7b94-4cad-aea9-03d3b76254b5_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/15979/6257189_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/15979/b49b702c-7b0f-428b-99f6-fb158195fc58_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;SENSATIONAL one bed room apartment in
+    Camperdown close to Sydney Uni &amp; RPA.&lt;/b&gt;&lt;br
+    /&gt;Sensational one bed room apartment with modern kitchen and
+    modern bath room.Which close to Sydney University...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>406/144 Mallet St
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>28/07/2009 10:39:18</DateCreated>
+    <DateModified>12/08/2009 15:05:16</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$380" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6275817" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="12/08/2009 12:47:20"
+  PlacementDate="12/08/2009 12:47:20" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="Mariam Sharan" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Mariam Sharan" FirstName="Mariam"
+        LastName="Sharan"
+        EmailAddress="mariam@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0405 947 832" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="23/16-11 Dunblane Street CAMPERDOWN">
+        <UnitNumber>23</UnitNumber>
+        <StreetNumber>16-11</StreetNumber>
+        <Street>Dunblane Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/6275817_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/6275817_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/6275817_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/6275817_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;ONE BEDROOM SPLIT LEVEL&lt;/b&gt;&lt;br
+    /&gt;Enjoy the comfort of a spacious 2-storey apartment with
+    the luxury of your own private courtyard! Facing North with
+    plenty of natural sunlight. This generous s...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>23/16-11 Dunblane Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>12/08/2009 12:47:20</DateCreated>
+    <DateModified>12/08/2009 12:47:20</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6275635" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="12/08/2009 11:54:53"
+  PlacementDate="12/08/2009 11:54:53" NewspaperID="Net">
+    <Organisation ID="15024" />
+    <Creator>
+      <Participant Name="Nick Dellis" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Nick Dellis" FirstName="Nick"
+        LastName="Dellis" EmailAddress="nick.dellis@cbdp.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="0295580388" />
+            <Number Type="Mobile" Number="0423838281" />
+            <Number Type="Fax" Number="0295595591" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="12/6-10 Purkis Street CAMPERDOWN">
+        <UnitNumber>12</UnitNumber>
+        <StreetNumber>6-10</StreetNumber>
+        <Street>Purkis Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/15024/6275635_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/15024/aaf14f94-acc0-45f7-8088-69ed45b8bca7_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;2 Level, 1 Bedroom Apartment&lt;/b&gt;&lt;br
+    /&gt;For inspections, please contact our Marrickville office on
+    9558 0388. This modern apartment features built in robe, open
+    plan kitchen, large open area upst...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>12/6-10 Purkis Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>12/08/2009 11:54:53</DateCreated>
+    <DateModified>12/08/2009 11:54:53</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$440" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6275491" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="12/08/2009 10:42:19"
+  PlacementDate="12/08/2009 10:42:19" NewspaperID="Net">
+    <Organisation ID="2378" />
+    <Creator>
+      <Participant Name="Rebecca Battaglia" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Rebecca Battaglia" FirstName="Rebecca"
+        LastName="Battaglia"
+        EmailAddress="rebeccab@raywhiteinnerwest.com">
+          <PhoneNumbers>
+            <Number Type="General" Number="9565 5833" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="9565 5996" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="21/43-57 Mallett St CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>21/43-57</StreetNumber>
+        <Street>Mallett St</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/2378/6275491_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/2378/6275491_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/2378/6275491_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/2378/6275491_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Inspect By Appointment - 6 MONTH LEASE
+    ONLY&lt;/b&gt;&lt;br /&gt;6 MONTH LEASE ONLY. Furnished 1
+    bedroom loft style apartment centrally located to all amenities
+    and in pristine condition throughout. Featur...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>21/43-57 Mallett St
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>12/08/2009 10:42:19</DateCreated>
+    <DateModified>12/08/2009 10:42:19</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$370" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6274971" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="11/08/2009 18:00:05"
+  PlacementDate="11/08/2009 18:00:05" NewspaperID="Net">
+    <Organisation ID="4697" />
+    <Creator>
+      <Participant Name="Vicki Nikos" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Vicki Nikos" FirstName="Vicki"
+        LastName="Nikos"
+        EmailAddress="vnikos@urbaneinnerwest.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9565 1211" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Lorna Tonga" FirstName="Lorna"
+        LastName="Tonga"
+        EmailAddress="ltonga@urbaneinnerwest.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9565 1211" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="12/43-57 Mallett Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>12/43-57</StreetNumber>
+        <Street>Mallett Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/4697/6274971_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009811/4697/6274971_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Modern Day Living&lt;/b&gt;&lt;br
+    /&gt;Modern split level 2 bedroom apartment with laundry
+    facilities with dryer, security block, freshly painted, new
+    flooring, dishwasher, close to all amenities, car
+    space...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>12/43-57 Mallett Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>11/08/2009 18:00:05</DateCreated>
+    <DateModified>11/08/2009 18:00:05</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$460.00 per week" ShowPrice="false"
+      Price="" PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6274937" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="11/08/2009 17:41:22"
+  PlacementDate="11/08/2009 17:41:22" NewspaperID="Net">
+    <Organisation ID="7843" />
+    <Creator>
+      <Participant Name="Amanda Grochowski" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Amanda Grochowski" FirstName="Amanda"
+        LastName="Grochowski"
+        EmailAddress="amanda@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Julie Romano" FirstName="Julie"
+        LastName="Romano"
+        EmailAddress="julie@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="0412 238 846" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Simon Carson" FirstName="Simon"
+        LastName="Carson"
+        EmailAddress="simon@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="0434 422 980" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="StreetAndSuburbOnly"
+      DisplayableAddress="6 Alexandra Drive CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber />
+        <Street>6 Alexandra Drive</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/7843/6274937_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/7843/6274937_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/7843/6274937_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/7843/6274937_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;OPEN PLAN ONE BEDROOM IN 'VIE'
+    &lt;/b&gt;&lt;br /&gt;Call MOVE Property Agents 02 9519 4669
+    Luxury as new one bedroom apartment, full kitchen with smeg
+    stainless steel appliances, gas cook top and
+    dishwash...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>6 Alexandra Drive
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>11/08/2009 17:41:22</DateCreated>
+    <DateModified>11/08/2009 17:41:22</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$390" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6274935" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="11/08/2009 17:41:20"
+  PlacementDate="11/08/2009 17:41:20" NewspaperID="Net">
+    <Organisation ID="7843" />
+    <Creator>
+      <Participant Name="Amanda Grochowski" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Amanda Grochowski" FirstName="Amanda"
+        LastName="Grochowski"
+        EmailAddress="amanda@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Simon Carson" FirstName="Simon"
+        LastName="Carson"
+        EmailAddress="simon@movepropertyagents.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="" />
+            <Number Type="Mobile" Number="0434 422 980" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="StreetAndSuburbOnly"
+      DisplayableAddress="6 Alexandra Drive CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber />
+        <Street>6 Alexandra Drive</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/7843/6274935_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/7843/6274935_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/7843/6274935_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/7843/6274935_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;MODERN 1 BEDROOM APARTMENT IN CITY QUARTER
+    COMPLEX&lt;/b&gt;&lt;br /&gt;Call MOVE Property Agents 02
+    9519-4669 Luxury as new one bedroom apartment, full kitchen
+    with smeg stainless steel appliances, gas co...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>6 Alexandra Drive
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>11/08/2009 17:41:20</DateCreated>
+    <DateModified>11/08/2009 17:41:20</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$440" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="5806201" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="04/07/2008 16:40:05"
+  PlacementDate="11/08/2009 17:40:40" NewspaperID="Net">
+    <Organisation ID="3826" />
+    <Creator>
+      <Participant Name="Contact Office" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Contact Office" FirstName="Contact"
+        LastName="Office" EmailAddress="">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9713 2811" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="1/30-32 Susan St CAMPERDOWN">
+        <UnitNumber>1</UnitNumber>
+        <StreetNumber>30-32</StreetNumber>
+        <Street>Susan St</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3826/5806201_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3826/5806201_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Security Unit - &lt;/b&gt;&lt;br /&gt;First
+    floor unit in good condition, open plan kichen/living, modern
+    kitchen, security screens on windows, carpet &amp; venetian
+    blinds. This small security block has a...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>1/30-32 Susan St
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>04/07/2008 16:40:05</DateCreated>
+    <DateModified>11/08/2009 17:40:40</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$380 per Week" ShowPrice="false"
+      Price="" PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="6274872" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="11/08/2009 17:06:23"
+  PlacementDate="11/08/2009 17:06:23" NewspaperID="Net">
+    <Organisation ID="3323" />
+    <Creator>
+      <Participant Name="Vicki Pannuti" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Vicki Pannuti" FirstName="Vicki"
+        LastName="Pannuti" EmailAddress="pmb@rwnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 8596 2713" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="02 9519 2733" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="204/54-56 Mallet Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>204/54-56</StreetNumber>
+        <Street>Mallet Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3323/6274872_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009811/3323/6274872_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3323/6274872_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009811/3323/6274872_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;2br in great location!!!!&lt;/b&gt;&lt;br
+    /&gt;Modern two bedroom apartment in a security block. Features
+    ensuite in main bedroom, built-ins, stunning finishes with
+    large balconies, combined living areas, m...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>204/54-56 Mallet Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>11/08/2009 17:06:23</DateCreated>
+    <DateModified>11/08/2009 17:06:23</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$500" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="5844330" InstructionType="Lease" Type="Residential"
+  IsNew="N" ActivationDate="06/08/2008 16:40:52"
+  PlacementDate="11/08/2009 15:40:09" NewspaperID="Net">
+    <Organisation ID="3151" />
+    <Creator>
+      <Participant Name="Rental Department" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Rental Department" FirstName="Rental"
+        LastName="Department" EmailAddress="">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9519 7500" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="House" TypeCode="H">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="43 Fowler St CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>43</StreetNumber>
+        <Street>Fowler St</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="3" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3151/5844330_1_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009811/3151/5844330_1_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3151/5844330_2_FS.JPG?mod=090813-022814"
+        ThumbUrl="http://images.domain.com.au/img/2009811/3151/5844330_2_TE.JPG?mod=090813-022814">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Well Presented, Two Storey Terrace, In Great
+    Location&lt;/b&gt;&lt;br /&gt;Well presented, two storey
+    terrace, in great location directly opposite Camperdown Park.
+    The property features three bedrooms (3rd...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>43 Fowler St
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>06/08/2008 16:40:52</DateCreated>
+    <DateModified>11/08/2009 15:40:09</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$620 per Week" ShowPrice="false"
+      Price="" PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+</SearchResults>

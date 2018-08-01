@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SearchResults Results="84" TotalResults="84">
+  <Listing ID="2007907110" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="21/07/2009 19:05:43"
+  PlacementDate="12/08/2009 15:07:38" NewspaperID="Net">
+    <Organisation ID="15737" />
+    <Creator>
+      <Participant Name="Mark Coleman" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Mark Coleman" FirstName="Mark"
+        LastName="Coleman" EmailAddress="mcoleman@raywhite.com">
+          <PhoneNumbers>
+            <Number Type="General" Number="9552 4333" />
+            <Number Type="Mobile" Number="0414 520 055" />
+            <Number Type="Fax" Number="9552 4613" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Vanessa Utro" FirstName="Vanessa"
+        LastName="Utro" EmailAddress="vanessa.utro@raywhite.com">
+          <PhoneNumbers>
+            <Number Type="General" Number="9552 4333" />
+            <Number Type="Mobile" Number="0449 892 703" />
+            <Number Type="Fax" Number="9552 4613" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="30/5 Larkin Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>30/5</StreetNumber>
+        <Street>Larkin Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/15737/2007907110_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/15737/2007907110_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/15737/2007907110_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/15737/2007907110_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;The Base - Open this Sat 15th August
+    12.30-1pm&lt;/b&gt;&lt;br /&gt;Top sensational studio apartment
+    boasts top floor location in the ultra appealing The Base
+    development. Featuring a highly stylish finish...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>30/5 Larkin Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>21/07/2009 19:05:43</DateCreated>
+    <DateModified>12/08/2009 15:07:38</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$309,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007937836" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="11/08/2009 12:21:06"
+  PlacementDate="11/08/2009 12:21:06" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="John Boustani" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="John Boustani" FirstName="John"
+        LastName="Boustani"
+        EmailAddress="john@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0412 656 151" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="17/1 Barr Street CAMPERDOWN">
+        <UnitNumber>17</UnitNumber>
+        <StreetNumber>1</StreetNumber>
+        <Street>Barr Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937836_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937836_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937836_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937836_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;THE BISCUIT FACTORY - 2BEDROOM SKY
+    APARTMENT&lt;/b&gt;&lt;br /&gt;INSPECT WITH THE PROFESSIONALS.
+    CALL JOHN BOUSTANI 0412 656 151 OR STEVE KREMISIS 0414 818 317
+    TODAY! Designed by renowned architects March...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>17/1 Barr Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>11/08/2009 12:21:06</DateCreated>
+    <DateModified>11/08/2009 12:21:06</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$695,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007937159" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="10/08/2009 18:41:08"
+  PlacementDate="10/08/2009 18:41:08" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="John Boustani" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="John Boustani" FirstName="John"
+        LastName="Boustani"
+        EmailAddress="john@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0412 656 151" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="2 Lyons Road CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>2</StreetNumber>
+        <Street>Lyons Road</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937159_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937159_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937159_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937159_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;SOHO LIVING - ONE BEDROOM LOFT
+    APARTMENT&lt;/b&gt;&lt;br /&gt;INSPECT WITH THE PROFESSIONALS.
+    CALL JOHN BOUSTANI 0412 656 151 OR STEVE KREMISIS 0414 818 317
+    TODAY! The former Weston's biscuit factories pr...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>2 Lyons Road
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>10/08/2009 18:41:08</DateCreated>
+    <DateModified>10/08/2009 18:41:08</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$410,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007937164" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="10/08/2009 18:41:12"
+  PlacementDate="10/08/2009 18:41:12" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="Steve and John" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Steve and John" FirstName="Steve"
+        LastName="and John"
+        EmailAddress="steve@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9557 7188" />
+            <Number Type="Mobile" Number="0414 818 317" />
+            <Number Type="Fax" Number="02 3557 8800" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="42-44 Gibbons Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>42-44</StreetNumber>
+        <Street>Gibbons Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="" />
+        <Feature Name="Bathrooms" Quantity="" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937164_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009810/3532/2007937164_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937164_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009810/3532/2007937164_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;LOCATION LOCATION!!&lt;/b&gt;&lt;br
+    /&gt;Selection of 1 &amp; 2 bedroom apartments! buy off the
+    plan and save big $$$$. 1 bedroom from $430,000 with parking.
+    Move in early 2010. Exchange now and cash in on
+    the...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>42-44 Gibbons Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>10/08/2009 18:41:12</DateCreated>
+    <DateModified>10/08/2009 18:41:12</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007937156" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="10/08/2009 18:41:05"
+  PlacementDate="10/08/2009 18:41:05" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="John Boustani" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="John Boustani" FirstName="John"
+        LastName="Boustani"
+        EmailAddress="john@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0412 656 151" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="10/1 Barr Street CAMPERDOWN">
+        <UnitNumber>10</UnitNumber>
+        <StreetNumber>1</StreetNumber>
+        <Street>Barr Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="3" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937156_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937156_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937156_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937156_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;WANT TO OWN AN AWARD WINNING
+    PROPERTY!!??&lt;/b&gt;&lt;br /&gt;The Biscuit Factory was
+    awarded 'Best Residential Project' on 8th June 2007 by the
+    Australian Institute of Building!!!! The innovative
+    Biscui...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>10/1 Barr Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>10/08/2009 18:41:05</DateCreated>
+    <DateModified>10/08/2009 18:41:05</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$695,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007937155" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="10/08/2009 18:41:04"
+  PlacementDate="10/08/2009 18:41:04" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="John Boustani" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="John Boustani" FirstName="John"
+        LastName="Boustani"
+        EmailAddress="john@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0412 656 151" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="4/25 Barr Street CAMPERDOWN">
+        <UnitNumber>4</UnitNumber>
+        <StreetNumber>25</StreetNumber>
+        <Street>Barr Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="2" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937155_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937155_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007937155_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007937155_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;THE BISCUIT FACTORY&lt;/b&gt;&lt;br /&gt;The
+    former Weston's biscuit factories have provided the ultimate
+    'blank canvas' for what has become a truly landmark Inner West
+    development which has redefined the C...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>4/25 Barr Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>10/08/2009 18:41:04</DateCreated>
+    <DateModified>10/08/2009 18:41:04</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$720,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007936299" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="10/08/2009 13:56:53"
+  PlacementDate="10/08/2009 13:56:53" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="John Boustani" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="John Boustani" FirstName="John"
+        LastName="Boustani"
+        EmailAddress="john@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0412 656 151" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="3 Barr Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>3</StreetNumber>
+        <Street>Barr Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007936299_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009810/3532/2007936299_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007936299_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009810/3532/2007936299_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;FIRST HOME BUYERS TAKE NOTE&lt;/b&gt;&lt;br
+    /&gt;INSPECT WITH THE PROFESSIONALS. CALL JOHN BOUSTANI 0412
+    656 151 OR STEVE KREMISIS 0414 818 317 TODAY! This development
+    provides the ultimate 'blank canvas'...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>3 Barr Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>10/08/2009 13:56:53</DateCreated>
+    <DateModified>10/08/2009 13:56:53</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$425,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007765688" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="15/05/2009 12:31:16"
+  PlacementDate="10/08/2009 13:11:48" NewspaperID="Net">
+    <Organisation ID="11140" />
+    <Creator>
+      <Participant Name="Nick Barnett" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Nick Barnett" FirstName="Nick"
+        LastName="Barnett"
+        EmailAddress="nick.barnett@frasersgreencliff.com">
+          <PhoneNumbers>
+            <Number Type="General" Number="0416188883" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="102/30 Pyrmont Bridge Road CAMPERDOWN">
+        <UnitNumber>102</UnitNumber>
+        <StreetNumber>30</StreetNumber>
+        <Street>Pyrmont Bridge Road</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="2" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/11140/2007765688_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009515/11140/374ef7e3-fd64-49e1-9796-0ed3376f6302_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/11140/2007765688_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009515/11140/f09243fd-aa70-4745-91f0-ece512a31ef1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Alexandra: heritage restored&lt;/b&gt;&lt;br
+    /&gt;Heritage outside, eclectic chic within. This large 215sqm
+    2 bedroom apartment is one of only 10 homes in 'Alexandra', and
+    rare indeed. The distinctive featu...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>102/30 Pyrmont Bridge Road
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>15/05/2009 12:31:16</DateCreated>
+    <DateModified>10/08/2009 13:11:48</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$1,200,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007935421" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="08/08/2009 16:40:15"
+  PlacementDate="08/08/2009 16:40:15" NewspaperID="Net">
+    <Organisation ID="3532" />
+    <Creator>
+      <Participant Name="John Boustani" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="John Boustani" FirstName="John"
+        LastName="Boustani"
+        EmailAddress="john@professionalsnewtown.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9557 7188" />
+            <Number Type="Mobile" Number="0412 656 151" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="30 Lyons Road CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>30</StreetNumber>
+        <Street>Lyons Road</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007935421_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007935421_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3532/2007935421_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009812/3532/2007935421_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;STATE OF THE ART!&lt;/b&gt;&lt;br
+    /&gt;INSPECT WITH THE PROFESSIONALS!! JOHN BOUSTANI 0412 656
+    151 State of the art one bedroom loft style apartment with
+    security parking. Offering an innovative,
+    exclusiv...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>30 Lyons Road
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>08/08/2009 16:40:15</DateCreated>
+    <DateModified>08/08/2009 16:40:15</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$495,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007933784" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="07/08/2009 14:37:43"
+  PlacementDate="07/08/2009 14:37:43" NewspaperID="Net">
+    <Organisation ID="3930" />
+    <Creator>
+      <Participant Name="Victor Morry Maia" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Victor Morry Maia" FirstName="Victor"
+        LastName="Morry Maia"
+        EmailAddress="victor@cityquarter.net">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9557 9260" />
+            <Number Type="Mobile" Number="0407 330 033" />
+            <Number Type="Fax" Number="02 9557 9270" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="C1403/3 Sterling Circuit CAMPERDOWN">
+        <UnitNumber>C1403</UnitNumber>
+        <StreetNumber>3</StreetNumber>
+        <Street>Sterling Circuit</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="3" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="2" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3930/2007933784_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/200987/3930/35f43d25-e50f-454a-8bf1-8e26603f41c5_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3930/2007933784_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/200987/3930/24bcb475-ce8d-4d4c-a7bb-ec5abce69aec_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;TRULY EXEPTIONAL DUAL LEVEL PENTHOUSE WITH
+    BREATHTAKING VIEWS &lt;/b&gt;&lt;br /&gt;Split level penthouse
+    apartment with spectacular 270 degree panoramic views of the
+    Sydney Skyline, spacious internal area...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>C1403/3 Sterling Circuit
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>07/08/2009 14:37:43</DateCreated>
+    <DateModified>07/08/2009 14:37:43</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$2,375,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007933549" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="07/08/2009 13:30:03"
+  PlacementDate="07/08/2009 13:30:03" NewspaperID="Net">
+    <Organisation ID="3930" />
+    <Creator>
+      <Participant Name="Victor Morry Maia" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Victor Morry Maia" FirstName="Victor"
+        LastName="Morry Maia"
+        EmailAddress="victor@cityquarter.net">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9557 9260" />
+            <Number Type="Mobile" Number="0407 330 033" />
+            <Number Type="Fax" Number="02 9557 9270" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="1202/7 Sterling Circuit CAMPERDOWN">
+        <UnitNumber>1202</UnitNumber>
+        <StreetNumber>7</StreetNumber>
+        <Street>Sterling Circuit</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3930/2007933549_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/200987/3930/7f603292-916e-48f2-ad2f-57b9b608b35c_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3930/2007933549_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/200987/3930/4aab29fb-f400-4f8e-8c66-dd8c945d0d13_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;TOP FLOOR CORNER LOGGIA WITH SPECTACULAR
+    SYDNEY SKYLINE VIEWS&lt;/b&gt;&lt;br /&gt;Arguably the prime
+    location and floor plan within Altro. This two bedroom plus
+    study layout boasts phenomenal 180 degree vi...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>1202/7 Sterling Circuit
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>07/08/2009 13:30:03</DateCreated>
+    <DateModified>07/08/2009 13:30:03</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$1,050,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007933521" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="07/08/2009 13:13:05"
+  PlacementDate="07/08/2009 13:13:05" NewspaperID="Net">
+    <Organisation ID="3930" />
+    <Creator>
+      <Participant Name="Victor Morry Maia" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Victor Morry Maia" FirstName="Victor"
+        LastName="Morry Maia"
+        EmailAddress="victor@cityquarter.net">
+          <PhoneNumbers>
+            <Number Type="General" Number="02 9557 9260" />
+            <Number Type="Mobile" Number="0407 330 033" />
+            <Number Type="Fax" Number="02 9557 9270" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="1207/7 Sterling Circuit CAMPERDOWN">
+        <UnitNumber>1207</UnitNumber>
+        <StreetNumber>7</StreetNumber>
+        <Street>Sterling Circuit</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="1" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3930/2007933521_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/200987/3930/38320463-17a5-431b-9a5d-69fdde3a709c_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/3930/2007933521_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/200987/3930/08cb84fc-d002-48cd-8daa-a8e5afb603ea_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;STUNNING VIEWS TOP FLOOR CORNER POSITION.
+    &lt;/b&gt;&lt;br /&gt;Rare opportunity to secure a rare
+    offering in showroom condition -Beautiful Annandale district
+    views -Dual entry bathroom with bath and sep...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>1207/7 Sterling Circuit
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>07/08/2009 13:13:05</DateCreated>
+    <DateModified>07/08/2009 13:13:05</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="$550,000" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+  <Listing ID="2007928427" InstructionType="Auction"
+  Type="Residential" IsNew="N" ActivationDate="05/08/2009 02:06:35"
+  PlacementDate="05/08/2009 02:06:35" NewspaperID="Net">
+    <Organisation ID="2717" />
+    <Creator>
+      <Participant Name="Joseph Tropiano" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Joseph Tropiano" FirstName="Joseph"
+        LastName="Tropiano"
+        EmailAddress="josephtropiano@mcgrath.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9568 0802" />
+            <Number Type="Mobile" Number="0401 002 211" />
+            <Number Type="Fax" Number="9568 0800" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="House" TypeCode="H">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="32 Northwood Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>32</StreetNumber>
+        <Street>Northwood Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/2717/2007928427_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009813/2717/2007928427_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/2717/2007928427_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009813/2717/2007928427_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Bright and breezy home in excellent
+    location&lt;/b&gt;&lt;br /&gt;Nestled in a quiet location in
+    one of Camperdown's finest tree lined settings, this well
+    presented double front residence retains
+    character...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>32 Northwood Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>05/08/2009 02:06:35</DateCreated>
+    <DateModified>05/08/2009 02:06:35</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="price guide over $560,000"
+      ShowPrice="false" Price="" PriceFrom="" PriceTo=""
+      PricePrefix="" />
+      <Auction DateAuction="2009-09-05T11:15:00">
+        <Location />
+      </Auction>
+    </Instruction>
+  </Listing>
+  <Listing ID="2007926250" InstructionType="Auction"
+  Type="Residential" IsNew="N" ActivationDate="04/08/2009 02:05:45"
+  PlacementDate="04/08/2009 02:05:45" NewspaperID="Net">
+    <Organisation ID="2717" />
+    <Creator>
+      <Participant Name="Kate Webster" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Kate Webster" FirstName="Kate"
+        LastName="Webster"
+        EmailAddress="katewebster@mcgrath.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9568 0830" />
+            <Number Type="Mobile" Number="0431 701 216" />
+            <Number Type="Fax" Number="9568 0800" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Rick Nicholson" FirstName="Rick"
+        LastName="Nicholson"
+        EmailAddress="ricknicholson@mcgrath.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="9568 0846" />
+            <Number Type="Mobile" Number="0404 270 405" />
+            <Number Type="Fax" Number="" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="House" TypeCode="H">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="14 Marmion Street CAMPERDOWN">
+        <UnitNumber />
+        <StreetNumber>14</StreetNumber>
+        <Street>Marmion Street</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="1" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/2717/2007926250_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009813/2717/2007926250_1_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/2717/2007926250_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009813/2717/2007926250_2_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;Exciting possibilities in a fantastic
+    location&lt;/b&gt;&lt;br /&gt;Available for the first time in
+    25 years and full of promise, this original worker's cottage
+    c1910 is in a quiet ultra-convenient location...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>14 Marmion Street
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>04/08/2009 02:05:45</DateCreated>
+    <DateModified>04/08/2009 02:05:45</DateModified>
+    <Priority>Priority</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="" ShowPrice="false" Price=""
+      PriceFrom="" PriceTo="" PricePrefix="" />
+      <Auction DateAuction="2009-08-29T10:30:00">
+        <Location />
+      </Auction>
+    </Instruction>
+  </Listing>
+  <Listing ID="2007772416" InstructionType="Private Treaty"
+  Type="Residential" IsNew="N" ActivationDate="20/05/2009 10:49:55"
+  PlacementDate="01/08/2009 10:42:47" NewspaperID="Net">
+    <Organisation ID="12848" />
+    <Creator>
+      <Participant Name="Phyllis Le" />
+    </Creator>
+    <Contacts>
+      <Contact>
+        <Participant Name="Phyllis Le" FirstName="Phyllis"
+        LastName="Le" EmailAddress="phyllis@synergyrealtor.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="0402832823" />
+            <Number Type="Mobile" Number="0402832823" />
+            <Number Type="Fax" Number="0295597154" />
+          </PhoneNumbers>
+        </Participant>
+        <Participant Name="Marc Clement" FirstName="Marc"
+        LastName="Clement"
+        EmailAddress="marc@synergyrealtor.com.au">
+          <PhoneNumbers>
+            <Number Type="General" Number="0411983952" />
+            <Number Type="Mobile" Number="" />
+            <Number Type="Fax" Number="0295877988" />
+          </PhoneNumbers>
+        </Participant>
+      </Contact>
+    </Contacts>
+    <Property Type="Unit/Flat/Apartment" TypeCode="U">
+      <Address DisplayOption="FullAddress"
+      DisplayableAddress="126/1 Missenden Road CAMPERDOWN">
+        <UnitNumber>126</UnitNumber>
+        <StreetNumber>1</StreetNumber>
+        <Street>Missenden Road</Street>
+        <Suburb>CAMPERDOWN</Suburb>
+        <Postcode>2050</Postcode>
+        <State>NSW</State>
+      </Address>
+      <Features>
+        <Feature Name="Bedrooms" Quantity="2" />
+        <Feature Name="Bathrooms" Quantity="2" />
+        <Feature Name="Carspaces" Quantity="1" />
+      </Features>
+      <Images>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/12848/2007772416_1_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009520/12848/35fec6c4-4117-458f-84f5-80cae2a1e3fe_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+        <Image Type="PropertyPhoto"
+        LinkUrl="http://images.domain.com.au/img/12848/2007772416_2_FS.JPG?mod=090813-022838"
+        ThumbUrl="http://images.domain.com.au/img/2009520/12848/112f611b-c259-4ea5-80f6-38a55e68f20e_TE.JPG?mod=090813-022838">
+
+          <File Format="JPG" />
+        </Image>
+      </Images>
+    </Property>
+    <Headline>&lt;b&gt;2BED+STUDY+ LOCATION
+    -UNDERCONTRACT&lt;/b&gt;&lt;br /&gt;THINKING OF SELLING or
+    WOULD LIKE TO KNOW WHAT YOUR PROPERTY WORTHS - CALL ME Spacious
+    New York Style Terrace with High Ceiling and Full
+    Facilities...</Headline>
+    <VirtualTourUrl />
+    <DisplayableAddress>126/1 Missenden Road
+    CAMPERDOWN</DisplayableAddress>
+    <DateCreated>20/05/2009 10:49:55</DateCreated>
+    <DateModified>01/08/2009 10:42:47</DateModified>
+    <Priority>Enhanced</Priority>
+    <Feed>Unknown</Feed>
+    <Instruction>
+      <Price DisplayPrice="UNDER CONTRACT" ShowPrice="false"
+      Price="" PriceFrom="" PriceTo="" PricePrefix="" />
+    </Instruction>
+  </Listing>
+</SearchResults>
